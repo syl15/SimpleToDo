@@ -24,7 +24,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had difficulties with restarting the Android Emulator and importing the FileUtils class for saving user data. 
 
 ## License
 
